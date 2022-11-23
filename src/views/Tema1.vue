@@ -122,7 +122,7 @@
               
           .row(titulo="Revelar relaciones y patrones ocultos")
             .col-md-12.mb-4.mb-md-0
-              p.mb-4 Se conoce como varianza a la raíz cuadrada que se desprende de una desviación estándar, la cual permite que las industrias de manufactura puedan trabajar, con precisión, en su producción y Con redes neuronales, se pueden analizar profundamente nuevos conocimientos y procesos sin entrenamiento alguno. Por ejemplo, consideremos una red neuronal de reconocimiento de patrones que analiza las compras de los consumidores. Si se comparan los patrones de compra de varios usuarios, la red neuronal puede sugerir artículos nuevos que podrían interesar a un consumidor específico.su índice de errores.
+              p.mb-4 Con redes neuronales, se pueden analizar profundamente nuevos conocimientos y procesos sin entrenamiento alguno. Por ejemplo, consideremos una red neuronal de reconocimiento de patrones que analiza las compras de los consumidores. Si se comparan los patrones de compra de varios usuarios, la red neuronal puede sugerir artículos nuevos que podrían interesar a un consumidor específico.
               
           .row(titulo="Crean sistemas de autoaprendizaje autónomos")
             .col-md-12.mb-4.mb-md-0
