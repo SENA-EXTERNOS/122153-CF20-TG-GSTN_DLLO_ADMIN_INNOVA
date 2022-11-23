@@ -44,7 +44,7 @@
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img4.png', alt='imagen relacionada')
       .col-md-7      
-        p.mb-4 Antes de comenzar con el tema de la ciencia de datos, es necesario estudiar una sección importante, la estadística inferencial, la cual es la parte de la estadística que, fuera de describir, deduce una situación a partir de datos. Infiere propiedades, conclusiones y tendencias, partiendo de una muestra del conjunto de datos (población), interpreta, compara y proyecta. Esta información servirá para cuando se utilicen los datos obtenidos, poder comprobar resultados de modelos estadísticos.
+        p.mb-4 Ahora, se abordará la temática de la ciencia de los datos, la cual se encarga del estudio de los datos para obtener información que pueda aportar valor a las organizaciones, realizándolo desde diferentes frentes, integrando la estadística, la matemática, la informática, la inteligencia artificial y otras afines. Tenga en cuenta que interdisciplinariamente, se analiza mucha cantidad datos a grandes velocidades.
     
     separador 
 
@@ -70,7 +70,7 @@
             .col-md-12.mb-4.mb-md-0
               p En este proceso se convierten datos de un formato a otro; es un procedimiento de conversión de estructuras que se quieren analizar. Esta modificación es vital para la integración y gestión de datos, e incluye varias actividades como limpiar, convertir, duplicar o agregar información. 
       .col-md-5
-        img(src='@/assets/curso/temas/texto_destacado/img5.png', alt='imagen relacionada')  
+        img(src='@/assets/curso/temas/texto_destacado/img5.jpeg', alt='imagen relacionada')  
     
     p.mb-4 La transformación de datos  es un proceso que ayuda a mejorar la productividad y está compuesta por dos etapas.
 
@@ -89,7 +89,7 @@
           .tarjeta.color-acento-contenido-borde.p-4(titulo="Etapa II")
             .row
               .col-md-12.p-4.color-fondo
-                p.mb-4 Se extraen los datos de la fuente original. El rango de fuentes puede variar, incluídas las fuentes estructuradas, como las bases de datos o las fuentes de transmisión y, seguidamente, se realizan las transformaciones.
+                p.mb-4 Se extraen los datos de la fuente original. El rango de fuentes puede variar, incluidas las fuentes estructuradas, como las bases de datos o las fuentes de transmisión y, seguidamente, se realizan las transformaciones.
                 
                 p.mb-0 Por ejemplo, se realiza la transformación, agregando datos como compras, datos de fechas, eliminar datos nulos “null”. Se depuran y envían los datos al proveedor de compras, a la división de facturación o de contabilidad y allí, según la estructura, se analizarán los datos y se tomarán las decisiones necesarias.
               
@@ -100,9 +100,9 @@
     
     .row.justify-content-center.mb-4
       .col-md-7      
-        p.mb-4 En relación con el modelo neuronal, este es un arreglo que enseña a las computadoras a procesar datos como lo hace el cerebro humano; es un aprendizaje de máquina (machine learning) que, utilizando redes o nodos (como las neuronas humanas) interconectados, como lo hace el cerebro humano, crea sistemas adaptables, capaces de aprender de sus errores y, de esta manera, las computadoras trabajan desde su propia mejora. Las redes neuronales resuelven problemas complicados y complejos con mayor precisión.
+        p.mb-4 En relación con el modelo neuronal, este es un arreglo que enseña a las computadoras a procesar datos como lo hace el cerebro humano; es un aprendizaje de máquina (<i>machine learning</i>) que, utilizando redes o nodos (como las neuronas humanas) interconectados, como lo hace el cerebro humano, crea sistemas adaptables, capaces de aprender de sus errores y, de esta manera, las computadoras trabajan desde su propia mejora. Las redes neuronales resuelven problemas complicados y complejos con mayor precisión.
         .cajon.color-acento-botones.color-fondo-secundario.p-4
-          p.mb-0 La importancia de las redes neuronales se fundamenta en que ayudan a las computadoras o redes de información, en la toma de decisiones automática y casi autónoma, disminuyendo la acción humana. Dada la complejidad del funcionamiento neuronal y la rapidez de responder ante situaciones complejas, desde este principio, las computadores aprenden rápidamente en función de la solución de modelos, desde el análisis de datos de entrada, para dar solución con datos e información de salida, lineales y no lineales, igualmente complejos.
+          p.mb-0 La importancia de las redes neuronales se fundamenta en que ayudan a las computadoras o redes de información, en la toma de decisiones automática y casi autónoma, disminuyendo la acción humana. Dada la complejidad del funcionamiento neuronal y la rapidez de responder ante situaciones complejas, desde este principio, las computadoras aprenden rápidamente en función de la solución de modelos, desde el análisis de datos de entrada, para dar solución con datos e información de salida, lineales y no lineales, igualmente complejos.
       .col-md-5
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img7.png', alt='imagen relacionada')
@@ -116,22 +116,21 @@
 
       .col-md-7
         AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario")
-          .row(titulo="Media")
+          .row(titulo="Generalizaciones y conclusiones")
             .col-md-12.mb-4.mb-md-0
-              p.mb-0 También conocida como promedio, es el valor que se obtiene al dividir la suma de un grupo de datos entre la cantidad de ellos. La media aritmética o promedio, representa el reparto equitativo, el equilibrio, la equidad. Es el valor que tendrían los datos, si todos ellos fueran iguales o, también, el valor que correspondería a cada uno de los datos, en la distribución, si su suma total se repartiera por igual.
+              p.mb-0 Comprender datos no estructurados, desde allí analizar y concluir, sin un previo entrenamiento. Puede detectar diferencias y semejanzas entre dos oraciones cualesquiera.
               
-          .row(titulo="Varianza")
+          .row(titulo="Revelar relaciones y patrones ocultos")
             .col-md-12.mb-4.mb-md-0
-              p.mb-4 Se conoce como varianza a la raíz cuadrada que se desprende de una desviación estándar, la cual permite que las industrias de manufactura puedan trabajar, con precisión, en su producción y reduzcan su índice de errores.
-              p La varianza toma los datos dispersos de la media y, luego de medirlos, le da valor a las variaciones y desviaciones. Además, permite contabilizar y prevenir posibles errores.
+              p.mb-4 Se conoce como varianza a la raíz cuadrada que se desprende de una desviación estándar, la cual permite que las industrias de manufactura puedan trabajar, con precisión, en su producción y Con redes neuronales, se pueden analizar profundamente nuevos conocimientos y procesos sin entrenamiento alguno. Por ejemplo, consideremos una red neuronal de reconocimiento de patrones que analiza las compras de los consumidores. Si se comparan los patrones de compra de varios usuarios, la red neuronal puede sugerir artículos nuevos que podrían interesar a un consumidor específico.su índice de errores.
               
-          .row(titulo="Muestra")
+          .row(titulo="Crean sistemas de autoaprendizaje autónomos")
             .col-md-12.mb-4.mb-md-0
-              p.mb-0 Es la cantidad mínima representativa de la población a ser estudiada y debe mantener las características de los pobladores; existen varios métodos para calcular la muestra, dependiendo de la cantidad de la población y el tipo de parámetro a estudiar.
+              p.mb-0 Otro principio fundamental del <i>machine learning</i>, el aprendizaje continuo y propio, son las correcciones de lenguaje que se tienen en la escritura en los diferentes <i>software</i>, que van mejorando cada vez que se hace una nueva corrección. Supongamos que el modelo fue entrenado en el idioma inglés y puede corregir la ortografía de las palabras en inglés; sin embargo, si se escriben con frecuencia palabras que no están en inglés, como <i>danke</i>; la red neuronal también puede aprender y corregir estas palabras, de forma automática.
               
-          .row(titulo="Población")
+          .row(titulo="Modelado y aprendizaje de datos volátiles")
             .col-md-12.mb-4.mb-md-0
-              p.mb-0 Es la cantidad de individuos, animales, objetos o eventos, con características similares u homogéneas, que se agrupan para un estudio o análisis; la población se puede nombrar como infinita o finita. De acuerdo con los parámetros requeridos para su estudio, la población se puede considerar de tipo discreto o continuo.
+              p.mb-0 Los datos transaccionales contienen, eventualmente, grandes variaciones de acuerdo a como se presenten los cruces de pagos, ventas o producción. Los modelos neuronales detectan estas variaciones para configurar el comportamiento de estos datos. Por ejemplo, pueden analizar las transacciones financieras y señalar algunas de ellas para la detección de fraudes. También pueden procesar datos complejos que son la clave de problemas biológicos difíciles, como el plegamiento de proteínas o el análisis del ADN, entre otros.
                          
       p.mb-4.mt-4 Como ejemplo de utilidades de las redes de datos tenemos:
 
@@ -175,7 +174,7 @@
                   p Los computadores adquieren esta habilidad, a partir de las redes de neuronas, obteniendo información y reconociendo el significado de los datos y documentos de texto. Los “bots” son ejemplos claros, presentes en los chats automáticos, que inician conversaciones con humanos y realizan tareas de asesoría y guianza entre varios menús de opciones. También tenemos la calificación automática de datos escritos, el análisis de correos electrónicos, entre otros.
                     
                 .tarjeta.color-puntoC.p-4(x="100%" y="80%" numero="+" style='border-radius: 10px')
-                  p Las redes neuronales analizan el tono, el acento, el idioma y el patrón de habla de la voz, para diferenciar o reconocer voces con características particulares. Por ejemplo, en los centros de llamadas (call center) ayudan a clasificar y seleccionar llamadas, subtítulos de videos e imágenes de texto.
+                  p Las redes neuronales analizan el tono, el acento, el idioma y el patrón de habla de la voz, para diferenciar o reconocer voces con características particulares. Por ejemplo, en los centros de llamadas (<i>call center</i>) ayudan a clasificar y seleccionar llamadas, subtítulos de videos e imágenes de texto.
 
       separador 
 
@@ -184,11 +183,13 @@
       
       .row.justify-content-center.mb-5
         .col-md-7      
-          p.mb-0 Se llama internet de las cosas o IoT (siglas en inglés de Internet of Things), a todos los mecanismos, dispositivos y aplicaciones que hacen más fácil realizar las labores cotidianas, equipos inteligentes, casas inteligentes, hasta ciudades inteligentes; todos interconectados, enviando y recibiendo información en tiempo real, a través de pequeños dispositivos que monitorean o administran pequeñas cosas.
+          p.mb-0 Se llama internet de las cosas o IoT (siglas en inglés de <i>Internet of Things</i>), a todos los mecanismos, dispositivos y aplicaciones que hacen más fácil realizar las labores cotidianas, equipos inteligentes, casas inteligentes, hasta ciudades inteligentes; todos interconectados, enviando y recibiendo información en tiempo real, a través de pequeños dispositivos que monitorean o administran pequeñas cosas.
         .col-md-5
           figure.mw-sm-350px
             img(src='@/assets/curso/temas/texto_destacado/img11.png', alt='imagen relacionada')
       
+      p.mb-4 Lo invitamos a ver el siguiente video, en el cual se presenta a Mateo y un ejemplo sobre cómo transcurren sus primeras horas del día, utilizando diferentes dispositivos.
+
       figure.mb-5
         .video
           <iframe width="560" height="315" src="https://www.youtube.com/embed/jASywqOHrQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -208,7 +209,7 @@
               
               p.mb-4 El paradigma de la segmentación lenta y depurada para “clasificar” clientes, que se utilizaba en el siglo anterior y por demás costosa, ya es historia; todas las aplicaciones hacen esa tarea por el usuario, solo es definir a quién, cuándo, cómo y a qué precio se quiere llegar; el resto lo hace la aplicación.
               
-              p Los antiguos departamentos de marketing de las organizaciones, en las actualidad se gestionan desde las diferentes especialidades relacionadas con el “Funnel” de conversión de redes sociales, páginas web e Internet, en términos generales.
+              p Los antiguos departamentos de <i>marketing</i> de las organizaciones, en las actualidad se gestionan desde las diferentes especialidades relacionadas con el <i>“Funnel”</i> de conversión de redes sociales, páginas web e Internet, en términos generales.
 
             .col-md-5
               figure
@@ -280,7 +281,7 @@
               figure
                 img(src='@/assets/curso/temas/tarjetas/placeholder7.svg', alt='imagen ilustrativa')
 
-      p.mb-4 En términos sencillos, la IA es una emulación de la inteligencia humana, aplicada y ejecutada en un robot o software.
+      p.mb-4 En términos sencillos, la IA es una emulación de la inteligencia humana, aplicada y ejecutada en un robot o <i>software</i>.
 
       .row.justify-content-center.mb-4
         .col-md-7      
@@ -307,7 +308,7 @@
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Inteligencia en la <br>gestión <i>Big data</i>")
               .row
                 .col-md-12.p-4.color-fondo
-                  p.mb-0 Gracias a la velocidad del aprendizaje automático, se pueden realizar tareas rápidas, efectivas y voluminosas en cada momento, casi al ritmo que se ingresa información estructurada y no estructurada de diferentes dispositivos, al Big data.
+                  p.mb-0 Gracias a la velocidad del aprendizaje automático, se pueden realizar tareas rápidas, efectivas y voluminosas en cada momento, casi al ritmo que se ingresa información estructurada y no estructurada de diferentes dispositivos, al <i>Big data</i>.
             
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Dispositivos<br>inteligentes")
               .row
@@ -336,7 +337,8 @@
                 .col-md-12.p-4.color-fondo
                   p.mb-0 Los datos son parcialmente etiquetados (unos etiquetados y otros no), el ordenador inicia analizando los datos etiquetados y extiende el proceso de aprendizaje a los datos no etiquetados.
 
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Aprendizaje de <br> refuerzo")            .row
+            .tarjeta.color-acento-contenido-borde.p-4(titulo="Aprendizaje de <br> refuerzo")            
+              .row
                 .col-md-12.p-4.color-fondo
                   p.mb-0 El ordenador en su medio circundante, identifica y analiza los datos desde su conducta y comportamiento, para minimizar el riesgo de parametrizar los datos no estructurados y dar solución a tareas.
         

@@ -12,7 +12,7 @@
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img15.png', alt='imagen relacionada')
       .col-md-7      
-        p.mb-4 Continuando con las herramientas colaborativas, las cuales son aplicaciones y software desarrollados para brindar y mejorar las actividades de trabajo en equipo; son un servicio integral de una o varias herramientas en función de objetivos grupales de equipos de trabajo.
+        p.mb-4 Continuando con las herramientas colaborativas, las cuales son aplicaciones y <i>software</i> desarrollados para brindar y mejorar las actividades de trabajo en equipo; son un servicio integral de una o varias herramientas en función de objetivos grupales de equipos de trabajo.
         .cajon.color-acento-botones.color-fondo-secundario.p-4
           p.mb-0 Estas permiten el trabajo en forma sincrónica o asincrónica, solo con un ordenador y conexión a Internet. Los pioneros de estas aplicaciones fueron los correos electrónicos y mensajes instantáneos, y en la actualidad existe una gran cantidad de aplicaciones que facilitan las reuniones, los informes, la producción de colectivos de trabajo en remoto.
     
@@ -53,7 +53,9 @@
           img(src='@/assets/curso/temas/texto_destacado/img17.png', alt='imagen relacionada')
       .col-md-7      
         p.mb-0 El desarrollo de las tecnologías de la información, ha permitido que muchas Pymes aprovechen los bajos costos, la velocidad y segmentación que permiten las aplicaciones. Actualmente, no se abre un correo en Gmail o Hotmail, se abre una cuenta con varios servicios y posibilidades, entre ellas varias aplicaciones en la nube que no requieren ser descargadas en el computador; simplemente, se accede entrando con la clave del correo, e igualmente se accede a herramientas de colaboración en la nube, en cualquier dispositivo, en cualquier momento, elementos esenciales para concertar reuniones a través de “Meets” o de “Teams”, con solo tener una cuenta gratuita en Gmail o Hotmail. También, de forma gratuita, se dispone de espacio para almacenar información de 1GB; otras aplicaciones para colaboración de forma gratuita, son ideales para desarrollar las <i>Star up</i> y Pymes.
-
+    
+    p.mb-4 Existen igualmente otras herramientas colaborativas en la nube que son de pago, obviamente con mayores bondades y posibilidades.
+    
     p.mb-4 Las herramientas colaborativas más conocidas son:
 
     .mx-auto.col-md-10.mb-4
@@ -96,13 +98,13 @@
                 p.puntoC_acento Además, el conjunto de OneDrive incluye también un espacio de creación de galerías de fotos divididas, el uso compartido de favoritos, o la creación de grupos de usuarios que pueden interactuar de forma colaborativa.
               
               .tarjeta.color-puntoC.puntoC_acento.p-4(x="78%" y="34%" numero="+" style='border-radius: 10px')
-                p.puntoC_acento Se puede decir que Skype fue el primer software de videoconferencias, capaz de compartir voz, video, archivos de texto, ideal para reuniones en tiempo real. Inicialmente era muy lento y pesado, pero con la competencia de otras aplicaciones, tomó un nuevo respiro; se puede entrar directamente desde las aplicaciones de Office.
+                p.puntoC_acento Se puede decir que Skype fue el primer <i>software</i> de videoconferencias, capaz de compartir voz, video, archivos de texto, ideal para reuniones en tiempo real. Inicialmente era muy lento y pesado, pero con la competencia de otras aplicaciones, tomó un nuevo respiro; se puede entrar directamente desde las aplicaciones de Office.
               
               .tarjeta.color-puntoC.puntoC_acento.p-4(x="61%" y="50%" numero="+" style='border-radius: 10px')
                 p.puntoC_acento El correo se hace más versátil con el Outlook, para compartir citas con otros usuarios, como apoyo colaborativo a las otras aplicaciones de Office, donde se entra directamente; ideal para comunicación interna en las organizaciones.
                   
               .tarjeta.color-puntoC.puntoC_acento.p-4(x="78%" y="52%" numero="+" style='border-radius: 10px')
-                p.puntoC_acento Enfocado al sector empresarial, permite añadir al software tradicional, funcionalidades colaborativas para compartir documentos, realizar módulos de administración de procesos, módulos de búsqueda y gestión documental.
+                p.puntoC_acento Enfocado al sector empresarial, permite añadir al <i>software</i> tradicional, funcionalidades colaborativas para compartir documentos, realizar módulos de administración de procesos, módulos de búsqueda y gestión documental.
 
     p.mb-4 Durante la pandemia del 2020, se evidenció la importancia de las diferentes aplicaciones que sirven para comunicarnos; además, permitió que muchas de ellas se potencializaran en función del mejoramiento de las reuniones y actividades virtuales. Una supervivencia que no habría sido posible sin el teletrabajo y el uso generalizado de las herramientas colaborativas, salvavidas para muchas organizaciones en tiempos difíciles. Ahora, con el debate abierto sobre los nuevos esquemas laborales, estas plataformas continuarán siendo determinantes para el cambio organizativo y cultural que supone la transformación tecnológica, en el ámbito corporativo. 
 
@@ -121,7 +123,7 @@
               figure
                 img(src='@/assets/curso/temas/tarjetas/avatar1.svg', alt='Texto que describa la imagen')
 
-          h4.text-center Para la creación de proyectos
+          h5.text-center Para la creación de proyectos
           ul.lista-ul
             li 
               |●  Symbaloo
@@ -137,7 +139,7 @@
               figure
                 img(src='@/assets/curso/temas/tarjetas/avatar2.svg', alt='Texto que describa la imagen')
 
-          h4.text-center Para entornos de trabajo
+          h5.text-center Para entornos de trabajo
           ul.lista-ul
             li 
               |● Office 365 de Microsoft
@@ -153,7 +155,7 @@
             .col-7
               figure
                 img(src='@/assets/curso/temas/tarjetas/avatar3.svg', alt='Texto que describa la imagen')
-          h4.text-center Para comunicación online
+          h5.text-center Para comunicación online
           ul.lista-ul
             li 
               |●  Google Hangout
@@ -171,7 +173,7 @@
               figure
                 img(src='@/assets/curso/temas/tarjetas/avatar4.svg', alt='Texto que describa la imagen')
 
-          h4.text-center Para gestión de tareas
+          h5.text-center Para gestión de tareas
           ul.lista-ul
             li 
               |●  Basecamp
@@ -184,7 +186,7 @@
             .col-7
               figure
                 img(src='@/assets/curso/temas/tarjetas/avatar5.svg', alt='Texto que describa la imagen')
-          h4.text-center Para compartir y almacenar en la nube
+          h5.text-center Para compartir y almacenar en la nube
           ul.lista-ul
             li 
               |●  Dropbox
@@ -193,6 +195,9 @@
             li 
               |●  WeTransfer
     
+    h3
+      i#t_2_1.fas.fa-square.me-3.cuadrado.mb-4
+      | Depuración de datos
 
     .row.justify-content-center.mb-4
       .col-md-7      

@@ -42,7 +42,7 @@
           .tarjeta.color-acento-contenido-borde.p-4(titulo="Públicas")
             .row
               .col-md-12.p-4.color-fondo
-                p.mb-0 Las normas deben ser publicadas para que sean de posible conocimiento por toda la población, sin la cual no se podría exigir su obligado cumplimiento
+                p.mb-0 Las normas deben ser publicadas para que sean de posible conocimiento por toda la población, sin la cual no se podría exigir su obligado cumplimiento.
 
       
       .col-md-3.col-lg-4(style="margin-top: 10px; ")
@@ -125,7 +125,7 @@
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img25.png', alt='imagen relacionada')
       .col-md-7      
-        p.mb-0 Seguridad y Salud en el Trabajo (SST). Todo programa sobre gestión en seguridad y salud en el trabajo, debe tener una introducción, alcance, objetivos, interesados o responsables, acciones (actividades), cronograma, sistemas de medición de las acciones y planes ejecutados, indicadores (obligatorios y no obligatorios), acciones y ejecución de acciones de mejora. Cada Sistema de Gestión de Seguridad y Salud en el Trabajo (GS-SST), debe ser único y elaborado de acuerdo con los riesgos detectados, medidos y clasificados en la empresa, así como las acciones de mitigación, eliminación u otra acción que se ejecute; por lo tanto, la metodología general se aplica conforme a lo estipulado por la norma, pero las acciones y riesgos son particulares a cada proceso, cada área y cada empresa. 
+        p.mb-0 <strong>Seguridad y Salud en el Trabajo (SST)</strong>. Todo programa sobre gestión en seguridad y salud en el trabajo, debe tener una introducción, alcance, objetivos, interesados o responsables, acciones (actividades), cronograma, sistemas de medición de las acciones y planes ejecutados, indicadores (obligatorios y no obligatorios), acciones y ejecución de acciones de mejora. Cada Sistema de Gestión de Seguridad y Salud en el Trabajo (GS-SST), debe ser único y elaborado de acuerdo con los riesgos detectados, medidos y clasificados en la empresa, así como las acciones de mitigación, eliminación u otra acción que se ejecute; por lo tanto, la metodología general se aplica conforme a lo estipulado por la norma, pero las acciones y riesgos son particulares a cada proceso, cada área y cada empresa. 
 
     .row.justify-content-center.mb-4
       .col-md-10.mb-4
@@ -158,6 +158,8 @@
         h4.text-center Derechos patrimoniales o económicos 
         p.mb-4.text-center Hacen referencia a la reproducción, distribución, comunicación pública o transformación de la obra, otorgando al autor la posibilidad de decidir sobre el uso de la misma, o  por parte de terceros, de manera que puede ceder esos derechos.
 
+    p.mb-4 Para finalizar se habla de la calidad, la cual se concibe como un compromiso organizacional que abarca todas las tareas, acciones, procesos, protocolos y normas que la empresa “caracteriza”, para llegar a buscar optimizar procesos.  
+
     p.mb-4 Es importante definir, en un sistema de calidad, la importancia de los tres diferentes tipos de acciones para minimizar factores externos que influyen en las organizaciones y sus decisiones.  
 
     .row.justify-content-center.mb-5
@@ -177,11 +179,11 @@
 
           .row(titulo="No conformidad")
             .col-md-12.mb-4.mb-md-0
-              p.mb-4 Se refiere al incumplimiento de un requisito preestablecido; este requisito puede tener un origen externo que es cuando se incumple, por ejemplo, una norma ISO, o puede tener un origen interno que es cuando se incumplen procedimientos internos de la empresa, entre otros. Es un hallazgo que se hace en los procesos de auditoría (generalmente externa), donde la acción, el procedimiento o proceso no está “conforme”, desde la acción, a como ha sido planeado. 
+              p.mb-4 Se refiere al incumplimiento de un requisito preestablecido; este requisito puede tener un origen externo que es cuando se incumple, por ejemplo, una norma ISO, o puede tener un origen interno que es cuando se incumplen procedimientos internos de la empresa, entre otros.
 
-              p.mb-4 Las no conformidades se dividen en menores y mayores. Las menores se solucionan con acciones sencillas que no implican mayores recursos y se pueden realizar en el corto plazo, incluso en el mismo momento del hallazgo.
+              p.mb-4 Es un hallazgo que se hace en los procesos de auditoría (generalmente externa), donde la acción, el procedimiento o proceso no está “conforme”, desde la acción, a como ha sido planeado. 
 
-              p.mb-0 Las no conformidades mayores, requieren desplegar recursos y programar acciones de mejora, enfocadas a solucionar en el menor tiempo posible.
+              p.mb-0 Las no conformidades se dividen en menores y mayores. Las menores se solucionan con acciones sencillas que no implican mayores recursos y se pueden realizar en el corto plazo, incluso en el mismo momento del hallazgo. Las no conformidades mayores, requieren desplegar recursos y programar acciones de mejora, enfocadas a solucionar en el menor tiempo posible.
 
     .row.justify-content-center.mb-4
       .col-md-10.mb-4
