@@ -213,7 +213,8 @@ export default {
     {
       referencia:
         'Joyanes Aguilar, L. (2019).<em> Inteligencia de Negocios y Analítica de datos.</em> Alfaomega.',
-      link: 'https://es.b-ok.lat/book/21084752/17db6f',
+      link:
+        'https://docplayer.es/190222261-Inteligencia-de-negocios-y-analitica-de-datos.html',
     },
     {
       referencia:
