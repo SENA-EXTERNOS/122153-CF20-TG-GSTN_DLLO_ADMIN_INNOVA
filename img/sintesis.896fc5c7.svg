@@ -1,0 +1,255 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1070.57" height="739.766" viewBox="0 0 1070.57 739.766">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_299232" data-name="Rectángulo 299232" width="1070.57" height="739.766" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectángulo_299207" data-name="Rectángulo 299207" width="192.024" height="44.273" transform="translate(857.006 149.727)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectángulo_299208" data-name="Rectángulo 299208" width="192.024" height="44.273" transform="translate(857.006 212.048)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Rectángulo_299209" data-name="Rectángulo 299209" width="161.762" height="39.531" transform="translate(32.196 296.935)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-23">
+      <rect id="Rectángulo_299227" data-name="Rectángulo 299227" width="197.722" height="61.466" transform="translate(854.158 274.37)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-25">
+      <rect id="Rectángulo_299229" data-name="Rectángulo 299229" width="213.564" height="44.273" transform="translate(857.006 587.226)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_151308" data-name="Grupo 151308" transform="translate(-265.58 -598)">
+    <g id="Grupo_151235" data-name="Grupo 151235" transform="translate(265.58 598)" clip-path="url(#clip-path)">
+      <g id="Grupo_151190" data-name="Grupo 151190">
+        <g id="Grupo_151189" data-name="Grupo 151189" clip-path="url(#clip-path)">
+          <g id="Grupo_151182" data-name="Grupo 151182" opacity="0.35" style="isolation: isolate">
+            <g id="Grupo_151181" data-name="Grupo 151181">
+              <g id="Grupo_151180" data-name="Grupo 151180" clip-path="url(#clip-path-3)">
+                <path id="Trazado_207319" data-name="Trazado 207319" d="M1026.891,193H879.143a21.136,21.136,0,0,1,0-42.273h147.748a21.136,21.136,0,0,1,0,42.273" fill="#f85316"/>
+                <path id="Trazado_207320" data-name="Trazado 207320" d="M1026.891,193H879.143a21.136,21.136,0,0,1,0-42.273h147.748a21.136,21.136,0,0,1,0,42.273Z" fill="none" stroke="#f85316" stroke-miterlimit="10" stroke-width="2"/>
+              </g>
+            </g>
+          </g>
+          <g id="Grupo_151185" data-name="Grupo 151185" opacity="0.35" style="isolation: isolate">
+            <g id="Grupo_151184" data-name="Grupo 151184">
+              <g id="Grupo_151183" data-name="Grupo 151183" clip-path="url(#clip-path-4)">
+                <path id="Trazado_207321" data-name="Trazado 207321" d="M1026.891,255.321H879.143a21.136,21.136,0,0,1,0-42.273h147.748a21.136,21.136,0,0,1,0,42.273" fill="#f85316"/>
+                <path id="Trazado_207322" data-name="Trazado 207322" d="M1026.891,255.321H879.143a21.136,21.136,0,0,1,0-42.273h147.748a21.136,21.136,0,0,1,0,42.273Z" fill="none" stroke="#f85316" stroke-miterlimit="10" stroke-width="2"/>
+              </g>
+            </g>
+          </g>
+          <path id="Trazado_207323" data-name="Trazado 207323" d="M959.236,492.974H811.488a21.137,21.137,0,0,1,0-42.273H959.236a21.137,21.137,0,0,1,0,42.273" fill="#d1d5fc"/>
+          <path id="Trazado_207324" data-name="Trazado 207324" d="M959.236,492.974H811.488a21.137,21.137,0,0,1,0-42.273H959.236a21.137,21.137,0,0,1,0,42.273Z" fill="none" stroke="#3e4bbf" stroke-width="2"/>
+          <line id="Línea_1233" data-name="Línea 1233" x2="37.066" transform="translate(194.848 117.766)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="0.75"/>
+          <path id="Trazado_207325" data-name="Trazado 207325" d="M229.808,120.543l1.18-2.777-1.18-2.778,6.584,2.778Z" fill="#12263f"/>
+          <path id="Trazado_207326" data-name="Trazado 207326" d="M456.895,652.3H326.079a29.6,29.6,0,1,1,0-59.2H456.895a29.6,29.6,0,1,1,0,59.2" fill="#d1d5fc"/>
+          <path id="Trazado_207327" data-name="Trazado 207327" d="M456.895,652.3H326.079a29.6,29.6,0,1,1,0-59.2H456.895a29.6,29.6,0,1,1,0,59.2Z" fill="none" stroke="#3e4bbf" stroke-width="2"/>
+          <path id="Trazado_207328" data-name="Trazado 207328" d="M29.837,344.327a28.837,28.837,0,1,1,0-57.673h166.48a28.837,28.837,0,1,1,0,57.673Z" fill="#3d46c2"/>
+          <path id="Trazado_207329" data-name="Trazado 207329" d="M196.317,287.654a27.837,27.837,0,1,1,0,55.674H29.837a27.837,27.837,0,0,1,0-55.674Zm0-2H29.837a29.837,29.837,0,0,0,0,59.674h166.48a29.837,29.837,0,1,0,0-59.674" fill="#12263f"/>
+          <g id="Grupo_151188" data-name="Grupo 151188" style="isolation: isolate">
+            <g id="Grupo_151187" data-name="Grupo 151187">
+              <g id="Grupo_151186" data-name="Grupo 151186" clip-path="url(#clip-path-5)">
+                <text id="Acciones_de_mejora" data-name="Acciones de mejora" transform="translate(33.149 312.332)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Acciones de mejo</tspan><tspan y="0" letter-spacing="-0.014em">r</tspan><tspan y="0">a</tspan></text>
+                <text id="basadas_en_" data-name="basadas en " transform="translate(32.195 331.592)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">basadas en </tspan></text>
+                <text id="Big_data" data-name="Big data" transform="translate(128.711 331.592)" fill="#fff" font-size="18" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic"><tspan x="0" y="0">Big data</tspan></text>
+              </g>
+            </g>
+          </g>
+          <path id="Trazado_207330" data-name="Trazado 207330" d="M59.142,146.6a28.837,28.837,0,1,1,0-57.673h107.87a28.837,28.837,0,1,1,0,57.673Z" fill="#bae887"/>
+          <path id="Trazado_207331" data-name="Trazado 207331" d="M167.012,89.929a27.837,27.837,0,1,1,0,55.673H59.142a27.837,27.837,0,1,1,0-55.673Zm0-2H59.142a29.837,29.837,0,1,0,0,59.673h107.87a29.837,29.837,0,1,0,0-59.673" fill="#75b62f"/>
+        </g>
+      </g>
+      <text id="Herramientas" transform="translate(64.136 112.608)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Her</tspan><tspan y="0" letter-spacing="-0.015em">r</tspan><tspan y="0">amientas</tspan></text>
+      <text id="colaborativas" transform="translate(64.647 131.856)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">colabo</tspan><tspan y="0" letter-spacing="-0.013em">r</tspan><tspan y="0">ati</tspan><tspan y="0" letter-spacing="-0.007em">v</tspan><tspan y="0">as</tspan></text>
+      <g id="Grupo_151192" data-name="Grupo 151192">
+        <g id="Grupo_151191" data-name="Grupo 151191" clip-path="url(#clip-path)">
+          <path id="Trazado_207332" data-name="Trazado 207332" d="M465.36,43.273H317.612a21.136,21.136,0,0,1,0-42.273H465.36a21.136,21.136,0,0,1,0,42.273" fill="#d1d5fc"/>
+          <path id="Trazado_207333" data-name="Trazado 207333" d="M465.36,43.273H317.612a21.136,21.136,0,0,1,0-42.273H465.36a21.136,21.136,0,0,1,0,42.273Z" fill="none" stroke="#3e4bbf" stroke-width="2"/>
+        </g>
+      </g>
+      <text id="Videoconferencias" transform="translate(324.162 27.721)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Videocon</tspan><tspan y="0" letter-spacing="-0.01em">f</tspan><tspan y="0">e</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">encias</tspan></text>
+      <g id="Grupo_151194" data-name="Grupo 151194">
+        <g id="Grupo_151193" data-name="Grupo 151193" clip-path="url(#clip-path)">
+          <path id="Trazado_207334" data-name="Trazado 207334" d="M465.36,104.474H317.612a21.136,21.136,0,0,1,0-42.273H465.36a21.136,21.136,0,0,1,0,42.273" fill="#d1d5fc"/>
+          <path id="Trazado_207335" data-name="Trazado 207335" d="M465.36,104.474H317.612a21.136,21.136,0,0,1,0-42.273H465.36a21.136,21.136,0,0,1,0,42.273Z" fill="none" stroke="#3e4bbf" stroke-width="2"/>
+        </g>
+      </g>
+      <text id="Pantallas_interactivas" data-name="Pantallas interactivas" transform="translate(313.869 88.921)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.005em">P</tspan><tspan y="0">antallas inte</tspan><tspan y="0" letter-spacing="-0.014em">r</tspan><tspan y="0">acti</tspan><tspan y="0" letter-spacing="-0.006em">v</tspan><tspan y="0">as</tspan></text>
+      <g id="Grupo_151196" data-name="Grupo 151196">
+        <g id="Grupo_151195" data-name="Grupo 151195" clip-path="url(#clip-path)">
+          <path id="Trazado_207336" data-name="Trazado 207336" d="M465.36,165.674H317.612a21.136,21.136,0,0,1,0-42.273H465.36a21.136,21.136,0,0,1,0,42.273" fill="#d1d5fc"/>
+          <path id="Trazado_207337" data-name="Trazado 207337" d="M465.36,165.674H317.612a21.136,21.136,0,0,1,0-42.273H465.36a21.136,21.136,0,0,1,0,42.273Z" fill="none" stroke="#3e4bbf" stroke-width="2"/>
+        </g>
+      </g>
+      <text id="Proyectores" transform="translate(348.232 150.121)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">P</tspan><tspan y="0" letter-spacing="-0.017em">r</tspan><tspan y="0" letter-spacing="-0.007em">o</tspan><tspan y="0" letter-spacing="-0.006em">y</tspan><tspan y="0">ec</tspan><tspan y="0" letter-spacing="-0.014em">t</tspan><tspan y="0">o</tspan><tspan y="0" letter-spacing="-0.008em">r</tspan><tspan y="0">es</tspan></text>
+      <g id="Grupo_151198" data-name="Grupo 151198">
+        <g id="Grupo_151197" data-name="Grupo 151197" clip-path="url(#clip-path)">
+          <path id="Trazado_207338" data-name="Trazado 207338" d="M500.234,242.265H324.17a27.694,27.694,0,0,1,0-55.389H500.234a27.694,27.694,0,0,1,0,55.389" fill="#d1d5fc"/>
+          <path id="Trazado_207339" data-name="Trazado 207339" d="M500.234,242.265H324.17a27.694,27.694,0,0,1,0-55.389H500.234a27.694,27.694,0,0,1,0,55.389Z" fill="none" stroke="#3e4bbf" stroke-width="2"/>
+        </g>
+      </g>
+      <text id="Uso_compartido_a_través_" data-name="Uso compartido a través " transform="translate(322.495 211.322)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Uso compa</tspan><tspan y="0" letter-spacing="0.025em">r</tspan><tspan y="0">tido a t</tspan><tspan y="0" letter-spacing="-0.013em">r</tspan><tspan y="0" letter-spacing="-0.007em">a</tspan><tspan y="0" letter-spacing="-0.006em">v</tspan><tspan y="0">és </tspan></text>
+      <text id="de_dispositivos_móviles" data-name="de dispositivos móviles" transform="translate(327.823 230.57)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">de dispositi</tspan><tspan y="0" letter-spacing="-0.005em">v</tspan><tspan y="0">os m</tspan><tspan y="0" letter-spacing="-0.007em">ó</tspan><tspan y="0">viles</tspan></text>
+      <g id="Grupo_151200" data-name="Grupo 151200">
+        <g id="Grupo_151199" data-name="Grupo 151199" clip-path="url(#clip-path)">
+          <path id="Trazado_207340" data-name="Trazado 207340" d="M465.36,432.342H317.612a21.137,21.137,0,0,1,0-42.273H465.36a21.137,21.137,0,0,1,0,42.273" fill="#d1d5fc"/>
+          <path id="Trazado_207341" data-name="Trazado 207341" d="M465.36,432.342H317.612a21.137,21.137,0,0,1,0-42.273H465.36a21.137,21.137,0,0,1,0,42.273Z" fill="none" stroke="#3e4bbf" stroke-width="2"/>
+        </g>
+      </g>
+      <text id="Características" transform="translate(337.053 416.79)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Ca</tspan><tspan y="0" letter-spacing="-0.014em">r</tspan><tspan y="0">acterísticas</tspan></text>
+      <g id="Grupo_151202" data-name="Grupo 151202">
+        <g id="Grupo_151201" data-name="Grupo 151201" clip-path="url(#clip-path)">
+          <path id="Trazado_207342" data-name="Trazado 207342" d="M456.895,510.474H326.079a29.6,29.6,0,1,1,0-59.2H456.895a29.6,29.6,0,1,1,0,59.2" fill="#d1d5fc"/>
+          <path id="Trazado_207343" data-name="Trazado 207343" d="M456.895,510.474H326.079a29.6,29.6,0,1,1,0-59.2H456.895a29.6,29.6,0,1,1,0,59.2Z" fill="none" stroke="#3e4bbf" stroke-width="2"/>
+        </g>
+      </g>
+      <text id="Seguridad_y_Salud" data-name="Seguridad y Salud" transform="translate(326.545 477.991)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Seguridad y Salud</tspan></text>
+      <text id="en_el_Trabajo" data-name="en el Trabajo" transform="translate(345.313 497.239)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">en el</tspan><tspan y="0" letter-spacing="-0.029em"> </tspan><tspan y="0" letter-spacing="-0.031em">T</tspan><tspan y="0" letter-spacing="-0.014em">r</tspan><tspan y="0">abajo</tspan></text>
+      <g id="Grupo_151204" data-name="Grupo 151204">
+        <g id="Grupo_151203" data-name="Grupo 151203" clip-path="url(#clip-path)">
+          <path id="Trazado_207344" data-name="Trazado 207344" d="M465.36,572.921H317.612a21.137,21.137,0,0,1,0-42.273H465.36a21.137,21.137,0,0,1,0,42.273" fill="#d1d5fc"/>
+          <path id="Trazado_207345" data-name="Trazado 207345" d="M465.36,572.921H317.612a21.137,21.137,0,0,1,0-42.273H465.36a21.137,21.137,0,0,1,0,42.273Z" fill="none" stroke="#3e4bbf" stroke-width="2"/>
+        </g>
+      </g>
+      <text id="Propiedad_intelectual" data-name="Propiedad intelectual" transform="translate(314.943 557.369)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">P</tspan><tspan y="0" letter-spacing="-0.017em">r</tspan><tspan y="0">opiedad intelectual</tspan></text>
+      <g id="Grupo_151206" data-name="Grupo 151206">
+        <g id="Grupo_151205" data-name="Grupo 151205" clip-path="url(#clip-path)">
+          <path id="Trazado_207346" data-name="Trazado 207346" d="M526.508,727.862H324.171a27.694,27.694,0,1,1,0-55.389H526.508a27.694,27.694,0,0,1,0,55.389" fill="#d1d5fc"/>
+          <path id="Trazado_207347" data-name="Trazado 207347" d="M526.508,727.862H324.171a27.694,27.694,0,1,1,0-55.389H526.508a27.694,27.694,0,0,1,0,55.389Z" fill="none" stroke="#3e4bbf" stroke-width="2"/>
+        </g>
+      </g>
+      <text id="Acciones_preventivas_" data-name="Acciones preventivas," transform="translate(346.476 696.919)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Acciones p</tspan><tspan y="0" letter-spacing="-0.008em">r</tspan><tspan y="0" letter-spacing="-0.006em">ev</tspan><tspan y="0">enti</tspan><tspan y="0" letter-spacing="-0.007em">v</tspan><tspan y="0">as,</tspan></text>
+      <text id="correctivas_y_no_conformidad" data-name="correctivas y no conformidad" transform="translate(320.348 716.167)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">cor</tspan><tspan y="0" letter-spacing="-0.008em">r</tspan><tspan y="0">ecti</tspan><tspan y="0" letter-spacing="-0.007em">v</tspan><tspan y="0">as y no conformidad</tspan></text>
+      <text id="Derechos_de_autor" data-name="Derechos de autor" transform="translate(325.9 619.815)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">De</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">echos de au</tspan><tspan y="0" letter-spacing="-0.014em">t</tspan><tspan y="0">or</tspan></text>
+      <text id="y_patrimoniales" data-name="y patrimoniales" transform="translate(336.044 639.063)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">y patrimoniales</tspan></text>
+      <g id="Grupo_151208" data-name="Grupo 151208">
+        <g id="Grupo_151207" data-name="Grupo 151207" clip-path="url(#clip-path)">
+          <path id="Trazado_207348" data-name="Trazado 207348" d="M555.765,345a28.837,28.837,0,1,1,0-57.673h107.87a28.837,28.837,0,1,1,0,57.673Z" fill="#bae887"/>
+          <path id="Trazado_207349" data-name="Trazado 207349" d="M663.635,288.33a27.837,27.837,0,1,1,0,55.673H555.765a27.837,27.837,0,1,1,0-55.673Zm0-2H555.765a29.837,29.837,0,1,0,0,59.673h107.87a29.837,29.837,0,1,0,0-59.673" fill="#75b62f"/>
+        </g>
+      </g>
+      <text id="Ciencia_de_datos" data-name="Ciencia de datos" transform="translate(550.122 320.537)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Ciencia de da</tspan><tspan y="0" letter-spacing="-0.013em">t</tspan><tspan y="0">os</tspan></text>
+      <g id="Grupo_151210" data-name="Grupo 151210">
+        <g id="Grupo_151209" data-name="Grupo 151209" clip-path="url(#clip-path)">
+          <path id="Trazado_207350" data-name="Trazado 207350" d="M292,22.137H236.392V218.578H292" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="0.75"/>
+          <path id="Trazado_207351" data-name="Trazado 207351" d="M289.892,19.359l1.18,2.777-1.18,2.778,6.584-2.778Z" fill="#12263f"/>
+          <path id="Trazado_207352" data-name="Trazado 207352" d="M289.892,221.355l1.18-2.777-1.18-2.778,6.584,2.778Z" fill="#12263f"/>
+          <path id="Trazado_207353" data-name="Trazado 207353" d="M292,83.337H236.392v64.034H292" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="0.75"/>
+          <path id="Trazado_207354" data-name="Trazado 207354" d="M289.892,80.56l1.18,2.777-1.18,2.778,6.584-2.778Z" fill="#12263f"/>
+          <path id="Trazado_207355" data-name="Trazado 207355" d="M289.892,150.148l1.18-2.777-1.18-2.778,6.584,2.778Z" fill="#12263f"/>
+          <path id="Trazado_207356" data-name="Trazado 207356" d="M292,412.253H236.392V704.015H292" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="0.75"/>
+          <path id="Trazado_207357" data-name="Trazado 207357" d="M289.892,409.476l1.18,2.777-1.18,2.778,6.584-2.778Z" fill="#12263f"/>
+          <path id="Trazado_207358" data-name="Trazado 207358" d="M289.892,706.793l1.18-2.777-1.18-2.778,6.584,2.778Z" fill="#12263f"/>
+          <path id="Trazado_207359" data-name="Trazado 207359" d="M292,480.872H236.392V622.7H292" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="0.75"/>
+          <path id="Trazado_207360" data-name="Trazado 207360" d="M289.892,478.094l1.18,2.777-1.18,2.778,6.584-2.778Z" fill="#12263f"/>
+          <path id="Trazado_207361" data-name="Trazado 207361" d="M289.892,625.474l1.18-2.777-1.18-2.778,6.584,2.778Z" fill="#12263f"/>
+          <line id="Línea_1234" data-name="Línea 1234" x2="97.15" transform="translate(194.848 552.939)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="0.75"/>
+          <path id="Trazado_207362" data-name="Trazado 207362" d="M289.892,555.716l1.18-2.777-1.18-2.778,6.584,2.778Z" fill="#12263f"/>
+          <path id="Trazado_207363" data-name="Trazado 207363" d="M59.142,581.776a28.837,28.837,0,0,1,0-57.674h107.87a28.837,28.837,0,1,1,0,57.674Z" fill="#bae887"/>
+          <path id="Trazado_207364" data-name="Trazado 207364" d="M167.012,525.1a27.837,27.837,0,1,1,0,55.673H59.142a27.837,27.837,0,1,1,0-55.673Zm0-2H59.142a29.837,29.837,0,1,0,0,59.673h107.87a29.837,29.837,0,1,0,0-59.673" fill="#75b62f"/>
+        </g>
+      </g>
+      <text id="Normativa" transform="translate(75.675 558.805)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Normati</tspan><tspan y="0" letter-spacing="-0.007em">v</tspan><tspan y="0">a</tspan></text>
+      <g id="Grupo_151212" data-name="Grupo 151212">
+        <g id="Grupo_151211" data-name="Grupo 151211" clip-path="url(#clip-path)">
+          <line id="Línea_1235" data-name="Línea 1235" x2="299.297" transform="translate(224.154 315.491)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="0.75"/>
+          <path id="Trazado_207365" data-name="Trazado 207365" d="M521.345,318.268l1.18-2.777-1.18-2.778,6.584,2.778Z" fill="#12263f"/>
+          <path id="Trazado_207366" data-name="Trazado 207366" d="M959.236,43.273H811.488a21.136,21.136,0,0,1,0-42.273H959.236a21.136,21.136,0,0,1,0,42.273" fill="#d1d5fc"/>
+          <path id="Trazado_207367" data-name="Trazado 207367" d="M959.236,43.273H811.488a21.136,21.136,0,0,1,0-42.273H959.236a21.136,21.136,0,0,1,0,42.273Z" fill="none" stroke="#3e4bbf" stroke-width="2"/>
+        </g>
+      </g>
+      <text id="Inferencia_estadística" data-name="Inferencia estadística" transform="translate(807.702 27.721)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">In</tspan><tspan y="0" letter-spacing="-0.012em">f</tspan><tspan y="0">e</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">encia estadística</tspan></text>
+      <g id="Grupo_151214" data-name="Grupo 151214">
+        <g id="Grupo_151213" data-name="Grupo 151213" clip-path="url(#clip-path)">
+          <path id="Trazado_207368" data-name="Trazado 207368" d="M951.379,120.187H819.344a28.993,28.993,0,0,1,0-57.986H951.379a28.993,28.993,0,0,1,0,57.986" fill="#d1d5fc"/>
+          <path id="Trazado_207369" data-name="Trazado 207369" d="M951.379,120.187H819.344a28.993,28.993,0,0,1,0-57.986H951.379a28.993,28.993,0,0,1,0,57.986Z" fill="none" stroke="#3e4bbf" stroke-width="2"/>
+        </g>
+      </g>
+      <text id="Técnicas_de" data-name="Técnicas de" transform="translate(842.265 88.921)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.043em">T</tspan><tspan y="0">écnicas de</tspan></text>
+      <text id="transformación" transform="translate(830.152 108.169)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">t</tspan><tspan y="0" letter-spacing="-0.014em">r</tspan><tspan y="0">ansformación</tspan></text>
+      <g id="Grupo_151216" data-name="Grupo 151216">
+        <g id="Grupo_151215" data-name="Grupo 151215" clip-path="url(#clip-path)">
+          <path id="Trazado_207370" data-name="Trazado 207370" d="M959.236,432.342H811.488a21.137,21.137,0,0,1,0-42.273H959.236a21.137,21.137,0,0,1,0,42.273" fill="#d1d5fc"/>
+          <path id="Trazado_207371" data-name="Trazado 207371" d="M959.236,432.342H811.488a21.137,21.137,0,0,1,0-42.273H959.236a21.137,21.137,0,0,1,0,42.273Z" fill="none" stroke="#3e4bbf" stroke-width="2"/>
+        </g>
+      </g>
+      <text id="Modelos_neuronales" data-name="Modelos neuronales" transform="translate(812.338 416.79)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Modelos neu</tspan><tspan y="0" letter-spacing="-0.017em">r</tspan><tspan y="0">onales</tspan></text>
+      <text id="Internet_de_las_cosas" data-name="Internet de las cosas" transform="translate(810.547 477.991)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Internet de las cosas</tspan></text>
+      <g id="Grupo_151218" data-name="Grupo 151218">
+        <g id="Grupo_151217" data-name="Grupo 151217" clip-path="url(#clip-path)">
+          <path id="Trazado_207372" data-name="Trazado 207372" d="M959.236,553.6H811.488a21.136,21.136,0,0,1,0-42.273H959.236a21.136,21.136,0,0,1,0,42.273" fill="#d1d5fc"/>
+          <path id="Trazado_207373" data-name="Trazado 207373" d="M959.236,553.6H811.488a21.136,21.136,0,0,1,0-42.273H959.236a21.136,21.136,0,0,1,0,42.273Z" fill="none" stroke="#3e4bbf" stroke-width="2"/>
+        </g>
+      </g>
+      <text id="Inteligencia_artificial" data-name="Inteligencia artificial" transform="translate(811.416 538.621)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Inteligencia a</tspan><tspan y="0" letter-spacing="0.023em">r</tspan><tspan y="0">tificial</tspan></text>
+      <g id="Grupo_151220" data-name="Grupo 151220">
+        <g id="Grupo_151219" data-name="Grupo 151219" clip-path="url(#clip-path)">
+          <path id="Trazado_207374" data-name="Trazado 207374" d="M785.874,21.643H730.267V91.194h55.607" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="0.75"/>
+          <path id="Trazado_207375" data-name="Trazado 207375" d="M783.768,18.866l1.18,2.777-1.18,2.778,6.584-2.778Z" fill="#12263f"/>
+          <path id="Trazado_207376" data-name="Trazado 207376" d="M783.768,93.971l1.18-2.777-1.18-2.778,6.584,2.778Z" fill="#12263f"/>
+          <path id="Trazado_207377" data-name="Trazado 207377" d="M790.351,412.253H730.267V474.34h55.607" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="0.75"/>
+          <path id="Trazado_207378" data-name="Trazado 207378" d="M783.768,477.118l1.18-2.777-1.18-2.778,6.584,2.778Z" fill="#12263f"/>
+          <path id="Trazado_207379" data-name="Trazado 207379" d="M785.874,412.253H730.267V532.469h55.607" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="0.75"/>
+          <path id="Trazado_207380" data-name="Trazado 207380" d="M783.768,409.476l1.18,2.777-1.18,2.778,6.584-2.778Z" fill="#12263f"/>
+          <path id="Trazado_207381" data-name="Trazado 207381" d="M783.768,535.246l1.18-2.777-1.18-2.778,6.584,2.778Z" fill="#12263f"/>
+          <line id="Línea_1236" data-name="Línea 1236" y1="321.059" transform="translate(730.267 91.194)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="0.75"/>
+          <line id="Línea_1237" data-name="Línea 1237" x2="34.318" transform="translate(691.472 316.167)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="0.75"/>
+          <path id="Trazado_207382" data-name="Trazado 207382" d="M723.683,318.944l1.18-2.777-1.18-2.778,6.584,2.778Z" fill="#12263f"/>
+        </g>
+      </g>
+      <text id="Mapeo_de_datos" data-name="Mapeo de datos" transform="translate(895.532 177.448)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Mapeo de da</tspan><tspan y="0" letter-spacing="-0.013em">t</tspan><tspan y="0">os</tspan></text>
+      <g id="Grupo_151222" data-name="Grupo 151222">
+        <g id="Grupo_151221" data-name="Grupo 151221" clip-path="url(#clip-path)">
+          <path id="Trazado_207383" data-name="Trazado 207383" d="M1026.891,193H879.143a21.136,21.136,0,0,1,0-42.273h147.748a21.136,21.136,0,0,1,0,42.273Z" fill="none" stroke="#f85316" stroke-miterlimit="10" stroke-width="2"/>
+        </g>
+      </g>
+      <text id="Generación_de_código" data-name="Generación de código" transform="translate(874.821 239.769)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Gene</tspan><tspan y="0" letter-spacing="-0.015em">r</tspan><tspan y="0">ación de código</tspan></text>
+      <g id="Grupo_151227" data-name="Grupo 151227">
+        <g id="Grupo_151226" data-name="Grupo 151226" clip-path="url(#clip-path)">
+          <path id="Trazado_207384" data-name="Trazado 207384" d="M1026.891,255.321H879.143a21.136,21.136,0,0,1,0-42.273h147.748a21.136,21.136,0,0,1,0,42.273Z" fill="none" stroke="#f85316" stroke-miterlimit="10" stroke-width="2"/>
+          <g id="Grupo_151225" data-name="Grupo 151225" opacity="0.35" style="isolation: isolate">
+            <g id="Grupo_151224" data-name="Grupo 151224">
+              <g id="Grupo_151223" data-name="Grupo 151223" clip-path="url(#clip-path-23)">
+                <path id="Trazado_207385" data-name="Trazado 207385" d="M1021.143,334.836H884.891a29.733,29.733,0,0,1,0-59.466h136.252a29.733,29.733,0,0,1,0,59.466" fill="#f85316"/>
+                <path id="Trazado_207386" data-name="Trazado 207386" d="M1021.143,334.836H884.891a29.733,29.733,0,0,1,0-59.466h136.252a29.733,29.733,0,0,1,0,59.466Z" fill="none" stroke="#f85316" stroke-miterlimit="10" stroke-width="2"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text id="Transformación-2" data-name="Transformación" transform="translate(895.817 302.09)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.031em">T</tspan><tspan y="0" letter-spacing="-0.014em">r</tspan><tspan y="0">ansformación</tspan></text>
+      <text id="de_datos" data-name="de datos" transform="translate(922.169 321.338)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">de da</tspan><tspan y="0" letter-spacing="-0.013em">t</tspan><tspan y="0">os</tspan></text>
+      <g id="Grupo_151232" data-name="Grupo 151232">
+        <g id="Grupo_151231" data-name="Grupo 151231" clip-path="url(#clip-path)">
+          <path id="Trazado_207387" data-name="Trazado 207387" d="M1021.143,334.836H884.891a29.733,29.733,0,0,1,0-59.466h136.252a29.733,29.733,0,0,1,0,59.466Z" fill="none" stroke="#f85316" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Trazado_207388" data-name="Trazado 207388" d="M825.528,120.187V305.1H850.68" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="0.75"/>
+          <path id="Trazado_207389" data-name="Trazado 207389" d="M848.574,307.88l1.18-2.777-1.18-2.778,6.584,2.778Z" fill="#12263f"/>
+          <path id="Trazado_207390" data-name="Trazado 207390" d="M853.529,171.863h-28v62.322h28" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="0.75"/>
+          <path id="Trazado_207391" data-name="Trazado 207391" d="M851.423,169.086l1.18,2.777-1.18,2.778,6.584-2.778Z" fill="#12263f"/>
+          <path id="Trazado_207392" data-name="Trazado 207392" d="M851.423,236.962l1.18-2.777-1.18-2.778,6.584,2.778Z" fill="#12263f"/>
+          <g id="Grupo_151230" data-name="Grupo 151230" opacity="0.35" style="isolation: isolate">
+            <g id="Grupo_151229" data-name="Grupo 151229">
+              <g id="Grupo_151228" data-name="Grupo 151228" clip-path="url(#clip-path-25)">
+                <path id="Trazado_207393" data-name="Trazado 207393" d="M1048.434,630.5H879.143a21.137,21.137,0,1,1,0-42.273h169.291a21.137,21.137,0,0,1,0,42.273" fill="#f85316"/>
+                <path id="Trazado_207394" data-name="Trazado 207394" d="M1048.434,630.5H879.143a21.137,21.137,0,1,1,0-42.273h169.291a21.137,21.137,0,0,1,0,42.273Z" fill="none" stroke="#f85316" stroke-miterlimit="10" stroke-width="2"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text id="Aprendizaje_automático" data-name="Aprendizaje automático" transform="translate(878.449 614.947)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.023em">A</tspan><tspan y="0">p</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">endizaje au</tspan><tspan y="0" letter-spacing="-0.015em">t</tspan><tspan y="0">omático</tspan></text>
+      <g id="Grupo_151234" data-name="Grupo 151234">
+        <g id="Grupo_151233" data-name="Grupo 151233" clip-path="url(#clip-path)">
+          <path id="Trazado_207395" data-name="Trazado 207395" d="M1048.434,630.5H879.143a21.137,21.137,0,1,1,0-42.273h169.291a21.137,21.137,0,0,1,0,42.273Z" fill="none" stroke="#f85316" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Trazado_207396" data-name="Trazado 207396" d="M825.528,553.605v55.758h28" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="0.75"/>
+          <path id="Trazado_207397" data-name="Trazado 207397" d="M851.423,612.14l1.18-2.777-1.18-2.778,6.584,2.778Z" fill="#12263f"/>
+        </g>
+      </g>
+    </g>
+    <path id="Trazado_207426" data-name="Trazado 207426" d="M-91.053-.262,37.066,0" transform="translate(381.435 793.664) rotate(-90)" fill="none" stroke="#12263f" stroke-width="0.75"/>
+    <path id="Trazado_207428" data-name="Trazado 207428" d="M-135.934,0l173,0" transform="translate(381.434 1078.174) rotate(90)" fill="none" stroke="#12263f" stroke-width="0.75"/>
+    <path id="Trazado_207427" data-name="Trazado 207427" d="M229.808,120.543l1.18-2.777-1.18-2.778,6.584,2.778Z" transform="translate(263.669 988.513) rotate(-90)" fill="#12263f"/>
+    <path id="Trazado_207429" data-name="Trazado 207429" d="M229.808,120.543l1.18-2.777-1.18-2.778,6.584,2.778Z" transform="translate(499.2 883.325) rotate(90)" fill="#12263f"/>
+  </g>
+</svg>
