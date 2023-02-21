@@ -12,7 +12,7 @@
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img2.png', alt='imagen relacionada')
       .col-md-7      
-        p.mb-4 Antes de comenzar con el tema de la ciencia de datos, es necesario estudiar una sección importante, la estadística inferencial, la cual es la parte de la estadística que, fuera de describir, deduce una situación a partir de datos. Infiere propiedades, conclusiones y tendencias, partiendo de una muestra del conjunto de datos (población), interpreta, compara y proyecta. Esta información servirá para cuando se utilicen los datos obtenidos, poder comprobar resultados de modelos estadísticos.
+        p.mb-4 Antes de comenzar con el tema de la ciencia de datos, es necesario estudiar la estadística inferencial, la cual hace parte de la estadística que, fuera de describir, deduce una situación a partir de datos. Infiere propiedades, conclusiones y tendencias, partiendo de una muestra del conjunto de datos (población), interpreta, compara y proyecta. Esta información servirá para cuando se utilicen los datos obtenidos, y así poder comprobar resultados de modelos estadísticos.
     
     p.mb-4 En la inferencia estadística, se miden los datos a través de diferentes parámetros:
 
@@ -21,7 +21,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario")
           .row(titulo="Media")
             .col-md-12.mb-4.mb-md-0
-              p.mb-0 También conocida como promedio, es el valor que se obtiene al dividir la suma de un grupo de datos entre la cantidad de ellos. La media aritmética o promedio, representa el reparto equitativo, el equilibrio, la equidad. Es el valor que tendrían los datos, si todos ellos fueran iguales o, también, el valor que correspondería a cada uno de los datos, en la distribución, si su suma total se repartiera por igual.
+              p.mb-0 También conocida como promedio, es el valor que se obtiene al dividir la suma de un grupo de datos y dividirlos por la cantidad de datos que se tenga. La media aritmética o promedio, representa el reparto equitativo, el equilibrio, la equidad. Es el valor que tendrían los datos, si todos ellos fueran iguales o, también, el valor que correspondería a cada uno de los datos, en la distribución, si su suma total se repartiera por igual.
               
           .row(titulo="Varianza")
             .col-md-12.mb-4.mb-md-0
@@ -102,7 +102,7 @@
       .col-md-7      
         p.mb-4 En relación con el modelo neuronal, este es un arreglo que enseña a las computadoras a procesar datos como lo hace el cerebro humano; es un aprendizaje de máquina (<i>machine learning</i>) que, utilizando redes o nodos (como las neuronas humanas) interconectados, como lo hace el cerebro humano, crea sistemas adaptables, capaces de aprender de sus errores y, de esta manera, las computadoras trabajan desde su propia mejora. Las redes neuronales resuelven problemas complicados y complejos con mayor precisión.
         .cajon.color-acento-botones.color-fondo-secundario.p-4
-          p.mb-0 La importancia de las redes neuronales se fundamenta en que ayudan a las computadoras o redes de información, en la toma de decisiones automática y casi autónoma, disminuyendo la acción humana. Dada la complejidad del funcionamiento neuronal y la rapidez de responder ante situaciones complejas, desde este principio, las computadoras aprenden rápidamente en función de la solución de modelos, desde el análisis de datos de entrada, para dar solución con datos e información de salida, lineales y no lineales, igualmente complejos.
+          p.mb-0 La importancia de las redes neuronales se fundamenta en que ayudan a las computadoras o redes de información, en la toma de decisiones de forma automática y casi autónoma, disminuyendo la acción humana. Dada la complejidad del funcionamiento neuronal y la rapidez de responder ante situaciones complejas, desde este principio, las computadores aprenden rápidamente en función de la solución de modelos, parte del análisis de datos de entrada, para dar solución con datos e información de salida, lineales y no lineales, igualmente complejos.
       .col-md-5
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img7.png', alt='imagen relacionada')
@@ -126,7 +126,7 @@
               
           .row(titulo="Crean sistemas de autoaprendizaje autónomos")
             .col-md-12.mb-4.mb-md-0
-              p.mb-0 Otro principio fundamental del <i>machine learning</i>, el aprendizaje continuo y propio, son las correcciones de lenguaje que se tienen en la escritura en los diferentes <i>software</i>, que van mejorando cada vez que se hace una nueva corrección. Supongamos que el modelo fue entrenado en el idioma inglés y puede corregir la ortografía de las palabras en inglés; sin embargo, si se escriben con frecuencia palabras que no están en inglés, como <i>danke</i>; la red neuronal también puede aprender y corregir estas palabras, de forma automática.
+              p.mb-0 Otro principio fundamental del <i>machine learning</i>, es el aprendizaje continuo y propio, consiste en las correcciones de lenguaje que se tienen en la escritura en los diferentes <i>software</i>, que van mejorando cada vez que se hace una nueva corrección. Supongamos que el modelo fue entrenado en el idioma inglés y puede corregir la ortografía de las palabras en ese idioma; sin embargo, si se escriben con frecuencia palabras que no están en inglés, como <i>danke</i>; la red neuronal también puede aprender y corregir estas palabras, de forma automática.
               
           .row(titulo="Modelado y aprendizaje de datos volátiles")
             .col-md-12.mb-4.mb-md-0
@@ -153,7 +153,7 @@
           figure.mw-sm-350px
             img(src='@/assets/curso/temas/texto_destacado/img9.png', alt='imagen relacionada')
 
-      p.mb-4 Algunas aplicaciones de las redes neuronales son:
+      p.mb-4 Algunas ventajas de uso de las redes neuronales son:
 
       .mx-auto.col-md-10.mb-4
         .tarjeta
@@ -201,7 +201,7 @@
       .tarjeta.tarjeta--secundario.p-4.mb-5
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center.my-lg-4
-            .col-md-7.mb-4.mb-md-0
+            .col-md-6.mb-4.mb-md-0
 
               h3.mb-4 IoT empresarial
               
@@ -216,7 +216,7 @@
                 img(src='@/assets/curso/temas/tarjetas/placeholder1.svg', alt='imagen ilustrativa')
           
           .row.justify-content-center.align-items-center.my-lg-4            
-            .col-md-7.mb-4.mb-md-0
+            .col-md-6.mb-4.mb-md-0
               h3.mb-4(style="margin-top: -70px;") IoT en transporte y logística
               p Una de las primeras implementaciones del IoT se da en el sector de la logística y el transporte, que consiste en etiquetar los contenedores de transporte con dispositivos de identificación por radiofrecuencia (RFID). Estas etiquetas almacenan datos que se pueden captar por medio de ondas de radio, lo que permite que las empresas de logística realicen un seguimiento de los movimientos de los contenedores en ciertos puestos de control, con RFID, como en el caso de los depósitos o las terminales de carga portuarias. Gracias a los avances en el IoT, se han desarrollado dispositivos de seguimiento con baterías que transfieren datos permanentemente a las aplicaciones de IoT, sin la necesidad de tener lectores en las instalaciones, lo que posibilita a las empresas para que analicen la información de los envíos de forma instantánea, en cada tramo de la cadena de suministro.
 
@@ -225,7 +225,7 @@
                 img(src='@/assets/curso/temas/tarjetas/placeholder2.svg', alt='imagen ilustrativa')
           
           .row.justify-content-center.align-items-center.my-lg-4
-            .col-md-7.mb-4.mb-md-0
+            .col-md-6.mb-4.mb-md-0
               h3.mb-4(style="margin-top: -70px;") IoT en la agricultura
               p El IoT ha revolucionado el sector agrícola de varias formas, como es el caso del uso de sensores de humedad. Cuando los instalan en los campos, los agricultores obtienen datos más precisos para programar los períodos de riego. Además, pueden conectarlos a las aplicaciones de IoT que controlan la maquinaria de riego, la cual se activa automáticamente en función de los datos que generan los sensores.
 
@@ -238,21 +238,21 @@
 
       p.mb-4 Definir la inteligencia artificial (IA) es un poco difícil; primero, por ser una ciencia relativamente nueva y, segundo, porque se está desarrollando tan rápido que no es posible definirla aún dentro de unos parámetros estables, como la inteligencia humana (no definida con exactitud), usándola como parámetro de comparación.
 
-      p.mb-4  A continuación, se presentan algunos datos importantes sobre su evolución. 
+      p.mb-4 A continuación, se presentan algunos datos importantes sobre su evolución: 
 
       .tarjeta.tarjeta--secundario.p-4.mb-5
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center.my-lg-4
-            .col-md-7.mb-4.mb-md-0    
+            .col-md-6.mb-4.mb-md-0    
 
-              p.mb-4 En tiempos de Aristóteles, ya se hablaba de inteligencia artificial pero, solo hasta antes de la Segunda Guerra Mundial, se le dio un inicio a su investigación, con el matemático Allan Turing, quien publicó “Máquina Universal” en 1936, donde explica su concepto de IA, descrito a través de un algoritmo informático y una máquina ordenadora. El Test de Turing fue la formalización de inicio de una nueva era, la era de la IA, evaluando si una máquina era o no, inteligente.
+              p.mb-4 En tiempos de Aristóteles, ya se hablaba de inteligencia artificial, pero, solo hasta antes de la Segunda Guerra Mundial, se le dio un inicio a su investigación, con el matemático Allan Turing, quien publicó “Máquina Universal” en 1936, donde explica su concepto de IA, descrito a través de un algoritmo informático y una máquina ordenadora. El Test de Turing fue la formalización de inicio de una nueva era, la era de la IA, evaluando si una máquina era o no, inteligente.
               
             .col-md-5
               figure
                 img(src='@/assets/curso/temas/tarjetas/placeholder4.svg', alt='imagen ilustrativa')
           
           .row.justify-content-center.align-items-center.my-lg-4            
-            .col-md-7.mb-4.mb-md-0
+            .col-md-6.mb-4.mb-md-0
               p.mb-4 El término de “Inteligencia Artificial” se utilizó por primera vez en 1956 con John McCarthy, Simon Newell y Marvin Minsky en una conferencia en Dartmouth (Estados Unidos). 
 
               p.mb-0 Minsky creó el primer simulador de redes neuronales, también inventó el microscopio confocal y patentó el primer casco de realidad virtual en 1963. 
@@ -262,7 +262,7 @@
                 img(src='@/assets/curso/temas/tarjetas/placeholder5.svg', alt='imagen ilustrativa')
           
           .row.justify-content-center.align-items-center.my-lg-4
-            .col-md-7.mb-4.mb-md-0
+            .col-md-6.mb-4.mb-md-0
               p.mb-4 El verdadero auge de la inteligencia artificial, a un nivel práctico, llegó cuando comenzaron a aparecer ordenadores potentes y baratos, capaces de experimentar con la IA a un nivel global y cotidiano, contrario a lo que se esperaba de grandes robots autómatas, capaces de analizar y hasta destruir ciudades.
 
               p Mantener una conversación cotidiana entre humanos, fueron los primeros pinos como agentes inteligentes, analizando datos en tiempos récord, manteniendo unas “reglas de juego”, fueron los primeros Chats con IA, los ChatBots.
@@ -272,11 +272,10 @@
                 img(src='@/assets/curso/temas/tarjetas/placeholder6.svg', alt='imagen ilustrativa')
           
           .row.justify-content-center.align-items-center.my-lg-4
-            .col-md-7.mb-4.mb-md-0
-              p.mb-4 En 1997, Deep Blue de IBM, un ordenador, venció en una partida de ajedrez a Gary Kasparov, el entonces mejor ajedrecista del mundo y, tal vez, de la historia; ya no era ficción y cine, era una realidad, la verdad de la IA.
+            .col-md-6.mb-4.mb-md-0
+              p.mb-4 En 1997, Deep Blue de IBM, un ordenador, venció en una partida de ajedrez a Gary Kasparov, el entonces mejor ajedrecista del mundo y, tal vez, de la historia; ya no era ficción o cine, era una realidad, la verdad de la IA.
               
-              p Actualmente, Deep Mind, creado por Google es el ordenador más popular y ha competido con éxito en otros juegos de mayor complejidad que el ajedrez.
-
+              p Actualmente, Deep Mind, creado por Google ,es el ordenador más popular y ha competido con éxito en otros juegos de mayor complejidad que el ajedrez.
             .col-md-5
               figure
                 img(src='@/assets/curso/temas/tarjetas/placeholder7.svg', alt='imagen ilustrativa')
@@ -291,19 +290,19 @@
           figure.mw-sm-350px
             img(src='@/assets/curso/temas/texto_destacado/img12.png', alt='imagen relacionada')
      
-      p.mb-4 Ahora, el aprendizaje automático hace parte de la IA, es el proceso por el cual el ordenador reconoce patrones y la capacidad de aprender sobre esos patrones, en un proceso continuo y creciente; llega a desarrollar estimaciones (predicciones con alto porcentaje de acierto), basado en datos históricos y la característica principal es la capacidad de realizar ajustes, sin haber sido programado para hacerlo.
+      p.mb-4 Ahora, el aprendizaje automático hace parte de la IA, es el proceso por el cual el ordenador reconoce patrones y la capacidad de aprender sobre esos patrones, en un proceso continuo y creciente; llega a desarrollar estimaciones (predicciones con un alto porcentaje de acierto), basado en datos históricos y la característica principal es la capacidad de realizar ajustes, sin haber sido programado para hacerlo.
       
       p.mb-4 Las ventajas del aprendizaje automático son:
 
       .row.justify-content-center.mb-4
-        .col-md-3.col-lg-4(style="margin-top: 10px; ")
+        .col-md-3.col-lg-3(style="margin-top: 10px; ")
           img(src='@/assets/curso/temas/texto_destacado/img13.png', alt='imagen relacionada') 
-        .col-md-8.col-lg-8
+        .col-md-8.col-lg-9
           TabsA.color-acento-contenido.mb-4
             .tarjeta.color-acento-contenido-borde.p-4(titulo="El usuario mejora<br>su experiencia")
               .row
                 .col-md-12.p-4.color-fondo
-                  p Este aprendizaje permite que los motores de búsqueda, las aplicaciones en la web y otras tecnologías, se adapten para coincidir con las búsquedas de los usuarios, personalizando las investigaciones y perfeccionando cada vez más, las experiencias personales en la web.
+                  p Este aprendizaje permite que los motores de búsqueda, las aplicaciones en la web y otras tecnologías, se adapten para coincidir con las exploraciones de los usuarios, personalizando las investigaciones y perfeccionando cada vez más, las experiencias personales en la web.
                 
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Inteligencia en la <br>gestión <i>Big data</i>")
               .row
@@ -315,9 +314,9 @@
                 .col-md-12.p-4.color-fondo
                   p.mb-0 Desde dispositivos móviles que dan seguimiento a la salud y a los objetivos de bienestar, hasta vehículos de conducción autónoma y "ciudades inteligentes" con infraestructura que puede reducir automáticamente desperdicio de tiempo y energía, el Internet de las cosas (IoT) es una gran promesa, y el aprendizaje automático puede ayudar a dar sentido a este aumento significativo en los datos.
 
-      p.mb-4 El funcionamiento del aprendizaje automático se refiere a algún ordenador que identifica patrones y analiza datos, para luego ser usados y optimizar tareas asignadas. Cualquier tarea se puede automatizar mediante el aprendizaje automático, no importa su complejidad.
+      p.mb-4 El funcionamiento del aprendizaje automático se refiere a algún ordenador que identifica patrones y analiza datos, para luego ser usados y optimizar tareas asignadas. Cualquier tarea se puede computarizar mediante este aprendizaje, no importa su complejidad.
 
-      p.mb-4 El aprendizaje automático es flexible y adaptable; utiliza básicamente cuatro modelos:       
+      p.mb-4 El aprendizaje automático es flexible y adaptable y utiliza básicamente cuatro modelos:  
 
       .row.justify-content-center.mb-4
         .col-md-8.col-lg-8
@@ -325,7 +324,7 @@
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Aprendizaje<br> supervisado")
               .row
                 .col-md-12.p-4.color-fondo
-                  p Los datos son etiquetados para aprender a realizar una tarea humana, es un modelo sencillo, emular el aprendizaje humano.
+                  p Los datos son etiquetados para aprender a realizar una tarea humana, es un modelo sencillo, se trata de emular el aprendizaje humano.
                 
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Aprendizaje <br>no supervisado")
               .row

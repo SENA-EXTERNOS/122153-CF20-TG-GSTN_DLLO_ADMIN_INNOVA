@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Acciones de mejora basadas en Big data',
+    componenteFormativo: 'Acciones de mejora basadas en <i>Big data</i>',
     descripcionCurso:
-      'Este componente formativo explora cómo se deben tratar los datos para iniciar y mantener un proceso de depuración, con el fin de ser utilizados en la organización, para generar valor a los procesos desde la gestión de datos e información, teniendo en cuenta el uso sistemático de los datos y cómo se deben salvaguardar y proteger como un activo importante para la empresa.',
+      'Este componente formativo explora cómo deben tratarse los datos para iniciar y mantener un proceso de depuración, con el fin de ser utilizados en la organización, para generar valor a los procesos desde la gestión de datos e información, teniendo en cuenta el uso sistemático de estos y su salvaguarda, y así protegerlos como un activo importante para la empresa.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -212,9 +212,7 @@ export default {
     },
     {
       referencia:
-        'Joyanes Aguilar, L. (2019).<em> Inteligencia de Negocios y Analítica de datos.</em> Alfaomega.',
-      link:
-        'https://docplayer.es/190222261-Inteligencia-de-negocios-y-analitica-de-datos.html',
+        'Joyanes Aguilar, L. (2019). <i>Inteligencia de Negocios y Analítica de datos</i>. Alfaomega.',
     },
     {
       referencia:
@@ -222,7 +220,7 @@ export default {
     },
     {
       referencia:
-        'Ley 1562 de 2012. Por la cual se modifica el sistema de riesgos laborales y se dictan otras disposiciones en materia de salud ocupacional. Julio 11 de 2012. ',
+        'Ministerio de Salud y Protección Social. Colombia (2012). Ley 1562 de 2012. Por la cual se modifica el sistema de riesgos laborales y se dictan otras disposiciones en materia de salud ocupacional. Julio 11 de 2012. ',
     },
   ],
   creditos: {

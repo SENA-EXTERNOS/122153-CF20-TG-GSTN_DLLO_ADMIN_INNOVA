@@ -32,7 +32,7 @@
           .tarjeta.color-acento-contenido-borde.p-4(titulo="Abstractas")
             .row
               .col-md-12.p-4.color-fondo
-                p.mb-0 Las normas no recogen supuestos concretos, sino que hablan de un supuesto general, donde se pueden entender dentro los demás casos concretos y sus particularidades.
+                p.mb-0 Las normas no recogen supuestos concretos, sino que hablan de un supuesto general, donde se puede entender que abordan casos concretos y sus particularidades.
 
           .tarjeta.color-acento-contenido-borde.p-4(titulo="Generales")            
             .row
@@ -125,7 +125,7 @@
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img25.png', alt='imagen relacionada')
       .col-md-7      
-        p.mb-0 <strong>Seguridad y Salud en el Trabajo (SST)</strong>. Todo programa sobre gestión en seguridad y salud en el trabajo, debe tener una introducción, alcance, objetivos, interesados o responsables, acciones (actividades), cronograma, sistemas de medición de las acciones y planes ejecutados, indicadores (obligatorios y no obligatorios), acciones y ejecución de acciones de mejora. Cada Sistema de Gestión de Seguridad y Salud en el Trabajo (GS-SST), debe ser único y elaborado de acuerdo con los riesgos detectados, medidos y clasificados en la empresa, así como las acciones de mitigación, eliminación u otra acción que se ejecute; por lo tanto, la metodología general se aplica conforme a lo estipulado por la norma, pero las acciones y riesgos son particulares a cada proceso, cada área y cada empresa. 
+        p.mb-0 <b>Seguridad y Salud en el Trabajo (SST).</b> Todo programa sobre gestión en seguridad y salud en el trabajo, debe tener una introducción, alcance, objetivos, interesados o responsables, acciones (actividades), cronograma, sistemas de medición de las acciones y planes ejecutados, indicadores (obligatorios y no obligatorios), acciones y ejecución de acciones de mejora. Cada Sistema de Gestión de Seguridad y Salud en el Trabajo (GS-SST), debe ser único y elaborado, de acuerdo con los riesgos detectados, medidos y clasificados en la empresa, así como las acciones de mitigación, eliminación u otra labor que se ejecute; por lo tanto, la metodología general se aplica conforme a lo estipulado por la norma, pero las actividades y riesgos son particulares a cada proceso, cada área y cada empresa. 
 
     .row.justify-content-center.mb-4
       .col-md-10.mb-4

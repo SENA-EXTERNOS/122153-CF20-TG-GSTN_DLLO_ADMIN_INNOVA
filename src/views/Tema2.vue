@@ -23,8 +23,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario")
           .row(titulo="Videoconferencias")
             .col-md-12.mb-4.mb-md-0
-              p.mb-4 De gran desarrollo en el 2020, en ese momento se determinó su importancia y efectividad, reuniones empresariales, clases universitarias y de escuela, reuniones familiares y hasta fiestas interactivas se realizaron, a través de las aplicaciones en los dispositivos.
-
+              p.mb-4 De gran desarrollo en el 2020, en ese momento se determinó su importancia y efectividad para: reuniones empresariales, clases universitarias y de escuela, reuniones familiares y hasta fiestas interactivas, todas estas se realizaron a través de las aplicaciones en los dispositivos.
               p Además de enviar imagen y sonido (algo básico para la comunicación), muchas permiten compartir pantalla, enviar documentos, videos, imágenes, etc., facilitando a los participantes trabajar en el mismo documento, en tiempo real.
 
           .row(titulo="Pantallas interactivas")
@@ -37,11 +36,11 @@
             .col-md-12.mb-4.mb-md-0
               p.mb-4 Los proyectores son muy utilizados en presentaciones o en sesiones de <i>briefing,</i> para explicar a los equipos de trabajo, las claves de un proyecto, las estrategias a seguir, o los resultados de las acciones implementadas.
 
-              p Gracias a los proyectores, las personas que se encuentran en una sala pueden ir viendo los documentos en los que se está trabajando en el computador que difunde la imagen. No se podrá trabajar a tiempo real como con las pantallas interactivas, porque los proyectores reproducen la imagen sobre una pantalla de proyección o pared blanca.
+              p Gracias a los proyectores, las personas que se encuentran en una sala, pueden ir viendo los documentos en los que se está trabajando en el computador que difunde la imagen. No se podrá trabajar en tiempo real como con las pantallas interactivas, porque los proyectores reproducen la imagen sobre una pantalla de proyección o pared blanca.
 
           .row(titulo="Uso compartido a través de dispositivos móviles")
             .col-md-12.mb-4.mb-md-0
-              p.mb-4 Las aplicaciones en dispositivos móviles, flexibles, fáciles de portar y transportar, son tan versátiles como los mismos equipos móviles, porque no requieren tantos comandos para su ejecución, solo poco <i>“touch”</i> en la pantalla digital, permitiendo ser ejecutadas mientras se está en movimiento. Se puede estar en una conferencia mientras se desplaza en un taxi, o en el auto, aún en el transporte público o, simplemente, repasar un producto de un colectivo en el Drive o en el One Drive.
+              p.mb-4 Las aplicaciones en dispositivos móviles, flexibles, fáciles de portar y transportar, son tan versátiles como los mismos equipos móviles, porque no requieren tantos comandos para su ejecución, tan solo con un “<i>touch</i>” en la pantalla digital, permite su ejecución mientras se está en movimiento. Se puede estar en una conferencia mientras se desplaza en un taxi, o en el auto, aún en el transporte público o, simplemente, repasar un producto de un colectivo en el Drive o en el One Drive.
 
               p A través de estas aplicaciones se pueden enviar tareas de impresión desde cualquier dispositivo (computador portátil, <i>smartphone</i> o tableta), con un acceso a la información, protegido por contraseña y una autorización de documentos, protegida por una clave.
       .col-md-5
@@ -70,7 +69,7 @@
               .tarjeta.color-puntoC.puntoC_acento.p-4(x="24%" y="35%" numero="+" style='border-radius: 10px;width: 410px')
                 p.mb-4.puntoC_acento Antes llamado Google Docs, aumentando sus posibilidades ahora como Drive, más potente, más dinámico y predictivo, haciendo las veces de programador, agenda, almacenamiento y utilitario, todo en la nube. En dispositivos móviles se puede tener acceso al Drive, incluso para realizar cambios sin conexión, los cuales se actualizarán al tener conexión a la web.
 
-                p.mb-4.puntoC_acento Los principales programas colaborativos de Google Drive son: un editor de documentos, otro de hojas de cálculo y el de presentaciones. En todos los casos, se podrá crear un documento y compartirlo con otros usuarios, simplemente añadiendo su email de Gmail. Además, se podrán dar los permisos que se requieran en el documento (leer, editar). Con ello, se podrá actualizar un documento y los otros usuarios ver, en tiempo real, los cambios que se realizan. Cualquier usuario podrá consultar la última versión del archivo en todo momento. También se podrán crear formularios y compartirlos.
+                p.mb-4.puntoC_acento Los principales programas colaborativos de Google Drive son: un editor de documentos, otro de hojas de cálculo y el de presentaciones. En todos los casos, se podrá crear un documento y compartirlo con otros usuarios, simplemente añadiendo su email de Gmail. Además, dar los permisos que se requieran en el documento (leer, editar). Y con ello actualizar un documento y los otros usuarios ver, en tiempo real, los cambios que se realizan. Cualquier usuario podrá consultar la última versión del archivo en todo momento, así como también, crear formularios y compartirlos.
               
               .tarjeta.color-puntoC.puntoC_acento.p-4(x="35%" y="28%" numero="+" style='border-radius: 10px')
                 p.mb-4.puntoC_acento Google Photos es otro espacio de colaboración donde se pueden subir fotos y crear álbumes en la web, pudiendo ser compartidos con quien se desee. Es ideal para una Pyme, donde podrá subir portafolio gráfico de sus productos y/o servicios, garantizando permanencia y seguridad.
@@ -94,7 +93,7 @@
                  
               .tarjeta.color-puntoC.puntoC_acento.p-4(x="61%" y="29%" numero="+" style='border-radius: 10px; width: 350px')
                 p.mb-4.puntoC_acento Es un espacio colaborativo con variedad de aplicaciones para compartir todo tipo de archivos, con capacidad gratuita de 5Gb.
-                p.mb-4.puntoC_acento Cuenta con todo el paquete Office en la web, como PowerPoint, Word y Excell (si no lo tiene instalado en su computador, ya no tiene problema), de acceso en cualquier parte y en cualquier momento.
+                p.mb-4.puntoC_acento Cuenta con todo el paquete Office en la web, como PowerPoint, Word y Excel (si no lo tiene instalado en su computador, ya no tiene problema), de acceso en cualquier parte y en cualquier momento.
                 p.puntoC_acento Además, el conjunto de OneDrive incluye también un espacio de creación de galerías de fotos divididas, el uso compartido de favoritos, o la creación de grupos de usuarios que pueden interactuar de forma colaborativa.
               
               .tarjeta.color-puntoC.puntoC_acento.p-4(x="78%" y="34%" numero="+" style='border-radius: 10px')
@@ -126,11 +125,11 @@
           h5.text-center Para la creación de proyectos
           ul.lista-ul
             li 
-              |●  Symbaloo
+              |●  Symbaloo.
             li 
-              |●  MindMeister
+              |●  MindMeister.
             li 
-              |●  Padlet
+              |●  Padlet.
 
       .col-sm-6.col-lg-2.mb-4.mb-lg-0(style=" width: 213px;")
         .tarjeta.p-4(style='min-height:220px; height:330px; background-color: #CFE5B6')
@@ -142,9 +141,9 @@
           h5.text-center Para entornos de trabajo
           ul.lista-ul
             li 
-              |● Office 365 de Microsoft
+              |● Office 365 de Microsoft.
             li 
-              |● Google WorkSpace
+              |● Google WorkSpace.
             li 
               |● Zoho.
 
@@ -158,13 +157,13 @@
           h5.text-center Para comunicación online
           ul.lista-ul
             li 
-              |●  Google Hangout
+              |●  Google Hangout.
             li 
-              |●  Skype
+              |●  Skype.
             li 
-              |●  Zoom
+              |●  Zoom.
             li 
-              |●  Slack
+              |●  Slack.
 
       .col-sm-6.col-lg-2.mb-4.mb-sm-0(style=" width: 213px;")
         .tarjeta.p-4(style='min-height:220px; height:330px; background-color: #CFE5B6')
@@ -176,9 +175,9 @@
           h5.text-center Para gestión de tareas
           ul.lista-ul
             li 
-              |●  Basecamp
+              |●  Basecamp.
             li 
-              |●  Trello
+              |●  Trello.
 
       .col-sm-6.col-lg-2(style="width: 213px;")
         .tarjeta.p-4(style='min-height:220px; height:330px; background-color: #CFE5B6')
@@ -189,11 +188,11 @@
           h5.text-center Para compartir y almacenar en la nube
           ul.lista-ul
             li 
-              |●  Dropbox
+              |●  Dropbox.
             li 
-              |●  Google Drive
+              |●  Google Drive.
             li 
-              |●  WeTransfer
+              |●  WeTransfer.
     
     h3
       i#t_2_1.fas.fa-square.me-3.cuadrado.mb-4
@@ -201,7 +200,7 @@
 
     .row.justify-content-center.mb-4
       .col-md-7      
-        p.mb-4 El proceso de homogeneización de los datos, o sea, la conversión y transformación de datos desde formatos no estructurados hasta llevarlos a una estructura general que facilite los análisis y depuraciones posteriores, hasta llevar la tipología de los datos a formar cuadros de información estructurados para, al final, tomar decisiones, esto es depuración de datos.
+        p.mb-4 El proceso de homogeneización de los datos, o sea, la conversión y transformación de datos desde formatos no estructurados hasta llevarlos a una estructura general que facilite los análisis y depuraciones posteriores, logrando llevar la tipología de los datos a formar cuadros de información estructurados para, al final, tomar decisiones, esto es depuración de datos.
         .cajon.color-acento-botones.color-fondo-secundario.p-4
           p.mb-0 La depuración es esencial en el tratamiento de los datos, debido a que los limpia y estandariza, librándose de errores para, posteriormente, formatearlos antes de introducirlos en el sistema de destino, de tal forma que podamos trabajar con ellos de manera apropiada.  
       .col-md-5
