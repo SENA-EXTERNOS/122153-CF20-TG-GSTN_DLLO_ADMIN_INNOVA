@@ -153,7 +153,7 @@
           figure.mw-sm-350px
             img(src='@/assets/curso/temas/texto_destacado/img9.png', alt='imagen relacionada')
 
-      p.mb-4 Algunas ventajas de uso de las redes neuronales son:
+      p.mb-4 Algunas ventajas de uso de las redes neuronales son: (puesto que en informática una aplicación es un desarrollo).
 
       .mx-auto.col-md-10.mb-4
         .tarjeta
@@ -162,7 +162,7 @@
               ImagenInfografica.color-acento-botones.mb-5
                 template(v-slot:imagen)
                   figure
-                    img(data-aos="fade-left" src='@/assets/curso/temas/texto_destacado/img10.svg', alt='diagrama')
+                    img(data-aos="fade-left" src='@/assets/curso/temas/texto_destacado/1.svg', alt='diagrama')
 
                 .tarjeta.color-puntoC.p-4(x="2%" y="17%" numero="+" style='border-radius: 10px')
                   p Se puede realizar un seguimiento de las actividades de cualquier usuario, utilizando redes neuronales, así como descubrir sus necesidades, gustos o nuevos intereses. Los usuarios, generalmente “dan clic” al tema, producto o servicio que más les interesa; los motores de búsqueda detectan estas acciones, guardan la información e inmediatamente, dentro de su “red” de información, buscan datos compatibles con la información de interés del usuario, enviándola a sus perfiles.
@@ -295,9 +295,9 @@
       p.mb-4 Las ventajas del aprendizaje automático son:
 
       .row.justify-content-center.mb-4
-        .col-md-3.col-lg-3(style="margin-top: 10px; ")
+        .col-2
           img(src='@/assets/curso/temas/texto_destacado/img13.png', alt='imagen relacionada') 
-        .col-md-8.col-lg-9
+        .col-md-8.col-lg-10
           TabsA.color-acento-contenido.mb-4
             .tarjeta.color-acento-contenido-borde.p-4(titulo="El usuario mejora<br>su experiencia")
               .row
