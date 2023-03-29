@@ -192,7 +192,7 @@
 
       figure.mb-5
         .video
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/jASywqOHrQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/jqzwosf6D0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
       p.mb-4 Un sistema de IoT tradicional, funciona enviando, recibiendo y analizando datos de forma permanente, en un ciclo de retroalimentación. Según el tipo de tecnología de IoT, las personas o los sistemas de inteligencia artificial y Aprendizaje Automático (IA/ML), pueden analizar estos datos casi de inmediato, o durante un cierto tiempo.
 
