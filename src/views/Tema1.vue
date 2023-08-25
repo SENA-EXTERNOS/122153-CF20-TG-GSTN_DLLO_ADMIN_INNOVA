@@ -209,7 +209,7 @@
               
               p.mb-4 El paradigma de la segmentación lenta y depurada para “clasificar” clientes, que se utilizaba en el siglo anterior y por demás costosa, ya es historia; todas las aplicaciones hacen esa tarea por el usuario, solo es definir a quién, cuándo, cómo y a qué precio se quiere llegar; el resto lo hace la aplicación.
               
-              p Los antiguos departamentos de <i>marketing</i> de las organizaciones, en las actualidad se gestionan desde las diferentes especialidades relacionadas con el <i>“Funnel”</i> de conversión de redes sociales, páginas web e Internet, en términos generales.
+              p Los antiguos departamentos de <i>marketing</i> de las organizaciones, en la actualidad se gestionan desde las diferentes especialidades relacionadas con el <i>“Funnel”</i> de conversión de redes sociales, páginas web e Internet, en términos generales.
 
             .col-md-5
               figure
@@ -320,7 +320,7 @@
 
       .row.justify-content-center.mb-4
         .col-md-8.col-lg-8
-          TabsA.color-acento-contenido.mb-4
+          TabsC.color-acento-contenido.mb-4
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Aprendizaje<br> supervisado")
               .row
                 .col-md-12.p-4.color-fondo

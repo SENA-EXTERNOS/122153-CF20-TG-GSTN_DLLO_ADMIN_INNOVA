@@ -18,7 +18,7 @@
 
     .row.justify-content-center.mb-4
       .col-md-8.col-lg-8
-        TabsA.color-acento-contenido.mb-4
+        TabsC.color-acento-contenido.mb-4
           .tarjeta.color-acento-contenido-borde.p-4(titulo="Impersonales")
             .row
               .col-md-12.p-4.color-fondo
